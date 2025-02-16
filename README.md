@@ -1,4 +1,4 @@
-# Salut, I'm Manas Dixit 👋
+# Hi, I'm Manas Dixit 👋
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 Welcome to my GitHub profile! I'm a Data and ML Engineer with a passion for data-driven solutions and AI. 
