@@ -16,7 +16,7 @@ Here's a bit about me and what I do:
 - **Cloud Platforms:** Google Cloud Platform (GCP)
 - **Data Tools:** BigQuery, Pandas, Spark
 - **ML Frameworks:** Scikit-learn, TensorFlow
-- **DevOps:** Docker, Airflow
+- **MlOps:** Docker, Airflow
 
 ## 🌟 Current Focus
 
